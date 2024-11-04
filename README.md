@@ -8,5 +8,7 @@ Create a single-page HTML CV to showcase your career history
 
 <p>https://roadmap.sh/projects/portfolio-website</p> 
 
+<p>https://roadmap.sh/projects/changelog-component</p>
 
-https://roadmap.sh/projects/changelog-component.
+<p>https://roadmap.sh/projects/Testimonial Cards</p>
+
