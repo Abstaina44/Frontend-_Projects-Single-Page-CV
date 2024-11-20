@@ -12,3 +12,5 @@ Create a single-page HTML CV to showcase your career history
 
 <p>https://roadmap.sh/projects/testimonial-cards</p>
 
+<p>https://roadmap.sh/projects/datepicker-ui</p>
+
